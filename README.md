@@ -2,7 +2,7 @@
 
 Nothing in this repository is intended for production use. It is my personal space for:
 
-1.  Learning New Tech (e.g., SvelteKit, Rust, Kubernetes)
+1.  Learning New Tech
 2.  Prototyping Ideas
 3.  Making Glorious Mistakes
 
